@@ -1,0 +1,42 @@
+[
+    {
+        "headline": "Chanceler do Uruguai diz que há consenso sobre acordo Mercosul-UE",
+        "sentiment": "Positivo",
+        "reasoning": "Notícia indica avanço em negociações e potencial benefício para os países envolvidos no acordo."
+    },
+    {
+        "headline": "Tarcísio diz que mudou de ideia e defende câmera na farda da PM",
+        "sentiment": "Neutro",
+        "reasoning": "Informação sobre declaração do governador sem tom emocional explícito, apresentando ambos os lados da questão"
+    },
+    {
+        "headline": "Câmera de PM mostra abordagem que terminou com idosa agredida",
+        "sentiment": "Negativo",
+        "reasoning": "Relato de violência contra uma pessoa idosa, gerando sentimentos negativos."
+    },
+    {
+        "headline": "PM que jogou homem de ponte é preso após prestar depoimento",
+        "sentiment": "Negativo",
+        "reasoning": "Relato de um ato de violência e consequência legal, transmitindo um tom emocional negativo."
+    },
+    {
+        "headline": "Mega-Sena pode pagar R$ 2 milhões; veja números",
+        "sentiment": "Positivo",
+        "reasoning": "A manchete transmite a possibilidade de um ganho financeiro significativo, o que geralmente é associado a emoções positivas."
+    },
+    {
+        "headline": "Flagrantes de violência policial e mais VÍDEOS do dia",
+        "sentiment": "Negativo",
+        "reasoning": "A manchete aborda um tema social delicado e potencialmente perturbador, envolvendo violência e violações dos direitos humanos."
+    },
+    {
+        "headline": "Homem é preso por forjar acidente que matou ex-esposa e receber seguro de R$ 1 milhão",
+        "sentiment": "Negativo",
+        "reasoning": "Descreve um crime grave e a consequência negativa para o acusado"
+    },
+    {
+        "headline": "Após queda de premiê, Macron vai à TV e diz que terminará mandato",
+        "sentiment": "Neutro",
+        "reasoning": "A manchete apresenta uma informação factual sobre uma declaração do presidente, sem implicar carga emocional positiva ou negativa."
+    }
+]

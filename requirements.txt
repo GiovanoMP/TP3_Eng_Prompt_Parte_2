@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+matplotlib
+pandas
+python-dotenv
+google-generativeai
