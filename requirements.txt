@@ -4,3 +4,9 @@ matplotlib
 pandas
 python-dotenv
 google-generativeai
+tiktoken
+kaggle
+kagglehub
+scikit-learn
+seaborn 
+streamlit
